@@ -6001,6 +6001,7 @@
 			baseConfigurationReference = D0B47D7D1CBD9C6600BB33CE /* ComponentKit.xcconfig */;
 			buildSettings = {
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = NO;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -6013,6 +6014,7 @@
 			baseConfigurationReference = D0B47D7D1CBD9C6600BB33CE /* ComponentKit.xcconfig */;
 			buildSettings = {
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = NO;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -6025,6 +6027,7 @@
 			baseConfigurationReference = D42B78E325176D8600DAC4D5 /* ComponentTextKit.xcconfig */;
 			buildSettings = {
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = NO;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -6037,6 +6040,7 @@
 			baseConfigurationReference = D42B78E325176D8600DAC4D5 /* ComponentTextKit.xcconfig */;
 			buildSettings = {
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = NO;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = NO;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
